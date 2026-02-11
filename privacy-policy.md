@@ -1,60 +1,61 @@
-Masamarka Privacy Policy
+MASAMARKA PRIVACY POLICY
+
+Last Updated: February 2026
+
 1. Introduction
 
-Masamarka (“we”, “us”, or “the app”) is a restaurant ordering application that enables QR code ordering, kiosk ordering, and dine-in ordering. We respect user privacy and treat the protection of personal data as a fundamental principle.
+Masamarka (“we”, “us”) is a restaurant ordering application providing QR, kiosk, and dine-in ordering services. We respect user privacy and treat the protection of personal data as a fundamental principle.
 
-This Privacy Policy explains how personal data is collected, processed, stored, and protected when using Masamarka and its related services. Masamarka complies with applicable data protection laws, including the Turkish Law on Protection of Personal Data (KVKK).
+This Privacy Policy explains how personal data is collected, processed, stored, and protected when using Masamarka. We comply with applicable data protection laws, including the Turkish Law on Protection of Personal Data (KVKK).
 
 By using the app, you agree to this Privacy Policy.
 
 2. Data Minimization Principle
 
-Masamarka follows the principle of data minimization and processes only the personal data strictly necessary to provide its services.
-No official identity verification is required. Users may use a nickname, initials, or a preferred display name.
+Masamarka processes only the personal data necessary to provide its services.
 
-3. Personal Data We Collect
-3.1 Name
+No official identity verification is required. Users may use nicknames or initials.
 
-The name provided by the user. No official verification is performed.
+3. Information We Collect
+Name
 
-3.2 Phone Number
+Provided by the user. No official verification is performed.
 
-Used for account creation, secure authentication, and order-related communication. One-time passwords (OTP) may be sent for verification.
+Phone Number
 
-3.3 Email Address (Optional)
+Used for account creation and secure authentication. A one-time password (OTP) may be sent via WhatsApp Business.
 
-Used for account management, receipts, and customer support.
+Email Address (Optional)
 
-3.4 Profile Photo (Optional)
+Used for account management and support communication.
 
-If provided, the photo is used solely for profile display and is deleted when the account is deleted.
+Profile Photo (Optional)
 
-3.5 Location Data (Optional)
+Used only for profile display and deleted upon account deletion.
 
-If permission is granted, real-time location data is used temporarily to display nearby restaurants and calculate distances. Location data is not stored persistently and is not used for tracking or advertising.
+Location Data (Optional)
 
-3.6 Payment Card Data
+Used temporarily to display nearby restaurants. Not persistently stored and not used for tracking or advertising.
 
-If card payment is selected, cardholder name, card number, expiry date, and CVV are processed solely to complete the payment.
+Payment Card Data
 
-Card data is not stored on Masamarka servers
+Processed only to complete payments. Not stored on Masamarka servers. Transmitted directly to licensed banks/payment providers.
+3D Secure authentication is handled via the bank’s secure system.
 
-Data is transmitted directly to licensed banks and payment service providers
+Order Information
 
-3D Secure authentication is handled via the bank’s secure interface.
+Processed to fulfill restaurant orders.
 
-3.7 Order Information
+Usage Data
 
-Order items, timestamps, and special instructions are processed to fulfill restaurant orders.
-
-3.8 Technical and Usage Data
-
-Limited technical data may be processed for security and compatibility purposes.
 Masamarka does not use analytics, advertising, or behavioral tracking tools.
+Limited technical data may be processed solely for security and system compatibility.
 
 4. Sensitive Personal Data
 
-Masamarka does not collect or process sensitive personal data, including data related to race, religion, health, biometric information, or similar categories. Users are requested not to share such information through the app.
+We do not collect or process sensitive personal data such as race, religion, health, or biometric data.
+
+Please do not share such information through the app.
 
 5. Purposes of Processing
 
@@ -62,53 +63,69 @@ Personal data is processed to:
 
 Create and manage user accounts
 
-Authenticate users securely
+Authenticate users
 
-Process and transmit restaurant orders
+Transmit restaurant orders
 
-Communicate regarding orders and accounts
+Communicate with users
 
-Ensure system security and reliability
+Ensure system security
 
 Comply with legal obligations
 
-No marketing communications are sent without explicit consent.
+No marketing messages are sent without explicit consent.
 
 6. Third-Party Service Providers
 
-Masamarka does not sell or rent personal data. Limited data sharing occurs only as necessary:
+We do not sell or rent personal data.
 
-WhatsApp Business (Meta): OTP and order notifications
+Limited data sharing may occur with:
 
-Google Maps SDK: Displaying restaurant locations
+WhatsApp Business (Meta) – OTP and order communication
 
-Payment Providers: Processing card payments
+Google Maps SDK – restaurant location display
 
-Legal Authorities: When legally required
+Licensed banks/payment providers – payment processing
+
+Legal authorities when required by law
 
 7. Data Security
 
-Personal data is stored on secure Masamarka servers with appropriate technical and organizational safeguards.
-In the event of a data breach, affected users and authorities will be notified as required by law.
+Personal data is stored on secure servers and protected against unauthorized access.
+
+In the event of a data breach, affected users and authorities will be notified as required by applicable law.
 
 8. Data Retention
 
-Data is retained while the account remains active and as necessary to provide services. Upon account deletion, personal data is permanently deleted unless retention is legally required.
+Data is retained while the account is active.
+
+Upon account deletion, personal data is permanently deleted unless legal retention is required.
 
 9. Your Rights
 
-Users have the right to access, correct, delete, restrict, or object to the processing of their personal data in accordance with applicable law.
+Under applicable law, you have the right to:
+
+Access your personal data
+
+Correct inaccurate data
+
+Request deletion
+
+Restrict or object to processing
 
 10. Children’s Privacy
 
-Masamarka is not intended for individuals under the age of 13 and does not knowingly collect personal data from children.
+Masamarka is not intended for individuals under 13 years of age.
 
-11. Contact
+11. Changes
+
+We may update this Privacy Policy periodically. Changes are reflected in the “Last Updated” date.
+
+12. Contact
 
 Email: info@arinsol.com.tr
 
-Data Controller:
-Arinsol Artificial Intelligence Technology and IT Inc.
-Üniversiteler Mahallesi, İhsan Doğramacı Bulvarı
-No: 31, Inner Door No: 20
+Masamarka Privacy Team
+Arinsol Yapay Zeka Teknoloji ve Bilişim A.Ş.
+Üniversiteler Mahallesi, İhsan Doğramacı Bulvarı, No:31, İç Kapı No:20
 Ankara, Türkiye
